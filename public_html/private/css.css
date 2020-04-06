@@ -1,0 +1,461 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	color: rgb(60, 60, 60);
+	background-color: #FFF;
+	text-align: center;
+	/*fafdff*/
+}
+
+
+
+pre {
+	color: #fc3030;
+}
+
+
+body {
+	
+	padding: 0px 0px 0px 0px; 
+	margin: 0px 0px 0px 0px; 
+	width: 100%;
+	height: 100%;
+
+}
+
+#line1 {
+-webkit-background-clip: border-box;
+-webkit-background-origin: padding-box;
+-webkit-background-size: auto;
+background-attachment: scroll;
+background-clip: border-box;
+background-color: #666;
+background-image: none;
+background-origin: padding-box;
+background-size: auto;
+color: rgb(0, 0, 0);
+display: block;
+font-family: 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+height: 44px;
+image-rendering: -webkit-crisp-edges;
+left: 0px;
+line-height: 18px;
+position: fixed;
+text-align: left;
+top: 0px;
+width: 100%;
+z-index: 5;	
+}
+
+#line1a {
+text-align:left;
+font-family: 'SEB Basic Web', 'Arial Narrow', 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+height: 44px;
+line-height: 18px;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 5px;
+max-width: 900px;
+padding-bottom: 0px;
+padding-top: 7px;
+}
+
+#line2 {
+margin-top:44px;
+background:#0C6;
+color: rgb(0, 0, 0);
+font-size: 14px;
+height: 90px;
+left: 0px;
+line-height: 18px;
+right: 0px;
+text-align: center;
+top: 0px;
+width: 100%;
+background-image:url(sky.png);
+background-size:100%;
+}
+
+#line2a {
+color: rgb(0, 0, 0);
+display: block;
+font-family: 'SEB Basic Web', 'Arial Narrow', 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+height: 90px;
+image-rendering: -webkit-crisp-edges;
+line-height: 18px;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+max-width: 900px;
+padding-bottom: 0px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 0px;
+text-align: left;
+width: 1180px;
+}
+#line2aa {
+	width:150px;
+	height:65px;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	background-color:#FFF;
+	background-image:url(logo.png);
+	background-size:100%;
+}
+
+h2 {
+	color:#FFF;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	float: right;
+	padding-top: 35px;
+}
+
+
+
+a { 
+color: rgb(255, 255, 255);
+font-family:Verdana, Geneva, sans-serif;
+font-size: 14px;
+font-weight: 200;
+text-decoration:none;
+/* float: right; */
+
+
+}
+a:hover {
+text-decoration: underline;
+}
+
+
+a.basic {
+color: rgb(255, 255, 255);
+font-family:Calibri; 
+font-size: 16px;
+height: 18px;
+font-weight: 600;
+text-decoration: none;
+font-weight: 600;
+float: left;
+}
+a.basic:hover {
+text-decoration: underline;
+}
+
+#all {
+	margin-right: 12px;
+}
+#all2 {
+	margin-left: 12px;
+
+	color:#FFF;
+	font-size:9px;
+	background-color: #d09700;
+	
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-button: 10px;
+	padding-left: 5px;
+	margin-right: 5px;
+	
+	border-radius: 10px;
+	width: 60px;
+	height: 17px;
+	text-align:center;
+	font-weight:600; 
+}
+
+#all3 {
+	margin-left: 12px;
+
+	color:#FFF;
+	font-size:9px;
+	background-color: #3f91bb;
+	
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-button: 10px;
+	padding-left: 5px;
+	margin-right: 5px;
+	
+	border-radius: 10px;
+	width: 150px;
+	height: 17px;
+	text-align:center;
+	font-weight:600; 
+}
+
+#all4 {
+	margin-left: 6px;
+
+	color:#FFF;
+	font-size:9px;
+	background-color: #3f91bb;
+	
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-button: 10px;
+	padding-left: 5px;
+	margin-right: 5px;
+	
+	border-radius: 10px;
+	width: 60px;
+	height: 17px;
+	text-align:center;
+	font-weight:600; 
+}
+
+#line3 {
+
+line-height: 18px;
+text-align: center;
+width: 100%;
+
+}
+
+#line3a {
+color: rgb(0, 0, 0);
+display: block;
+font-family: 'SEB Basic Web', 'Arial Narrow', 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+height: 9;
+image-rendering: -webkit-crisp-edges;
+line-height: 0px;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+max-width: 900px;
+/*padding-bottom: 25px;*/
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 0px;
+text-align: left;
+width: 1180px;
+text-align: center;
+}
+
+#red {
+	color: red;
+	text-align: center;
+}
+
+#capital {
+	text-transform: uppercase;
+}
+
+h1 {
+	padding: 0 0 0 0;
+	margin: 20px 0 20px 0;
+	width: 900px;
+	color:#333;
+	font-weight:600;
+	text-align: right;
+}
+
+#center {
+	padding: 0 0 0 0;
+	margin: 30px 0 20px 0;
+	width: 900px;
+	color: #e10909;
+	font-weight:600;
+	text-align: center;
+}
+
+#button {
+	color:#FFF;
+	font-size:11px;
+	background-color: #ffb900;
+	
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-button: 10px;
+	padding-left: 5px;
+	
+	margin-right: 5px;
+	
+	border-radius: 10px;
+	line-height: 18px;
+	float:inherit;
+
+}
+
+#button2 {
+	color:# FFF;
+	font-size:11px;
+	background-color: #d09700;
+	
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-button: 1px;
+	padding-left: 5px;
+	
+	margin-right: 5px;
+
+	border-radius: 10px;
+	line-height: 10px;
+	float:inherit;
+}
+
+
+#button3 {
+	color:# FFF;
+	font-size:11px;
+	background-color: #006da4;
+	
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-button: 1px;
+	padding-left: 5px;
+	
+	margin-right: 5px;
+
+	border-radius: 10px;
+	line-height: 10px;
+	float:inherit;
+}
+
+
+
+td {
+	border-style: dashed; 
+    border-width: thin;
+	border-color:#CCC;
+	text-align: center;
+}
+tr.one {
+
+}    
+
+
+table {
+    margin: auto auto auto auto;
+	width: 900px;
+	border-collapse: collapse;
+	font-family:Verdana, Geneva, sans-serif;
+font-size: 12px;
+font-weight: 0;
+text-decoration:none;
+text-align: center;
+}
+
+#tablehader 
+{
+	background-color:#3f91bb;
+	font-weight: 600;
+	color:#FFF;
+	border: 0px;
+	
+}
+
+#tablehader2
+{
+	background-color:#ffffff;
+	font-weight: 600;
+	color: #ffffff;
+	border: 0px;
+	
+}
+
+
+#tabletext 
+{
+	background-color:#fafdff;
+	color:# 333;
+}
+
+
+
+#line4 {
+text-align: center;
+height: 50px;
+
+width: 100%;
+background-color: #666;
+
+position: absolute;
+bottom: 0px;
+
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+
+#line4a {
+color: rgb(0, 0, 0);
+vertical-align:top;
+display: block;
+font-family: 'SEB Basic Web', 'Arial Narrow', 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+color:#CCC;
+height: 9;
+image-rendering: -webkit-crisp-edges;
+
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+max-width: 900px;
+padding-bottom: 25px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 60px;
+text-align: center;
+width: 1180px;
+}
+
+/*  
+Sticky Footer Solution
+by Steve Hatcher 
+http://stever.ca
+http://www.cssstickyfooter.com
+*/
+
+* {margin:0;padding:0;} 
+
+/* must declare 0 margins on everything, also for main layout components use padding, not 
+vertical margins (top and bottom) to add spacing, else those margins get added to total height 
+and your footer gets pushed down a bit more, creating vertical scroll bars in the browser */
+
+html, body {height: 100%;}
+
+#wrap {min-height: 100%;}
+
+#main {overflow:auto;
+	padding-bottom: 180px;}  /* must be same height as the footer */
+
+#footer {position: relative;
+	margin-top: -180px; /* negative value of footer height */
+	height: 180px;
+	clear:both;} 
+
+/*Opera Fix*/
+body:before {/* thanks to Maleika (Kohoutec)*/
+content:"";
+height:100%;
+float:left;
+width:0;
+margin-top:-32767px;/* thank you Erik J - negate effect of float*/
+}
+
+
+
+/* IMPORTANT
+
+You also need to include this conditional style in the <head> of your HTML file to feed this style to IE 6 and lower and 8 and higher.
+
+<!--[if !IE 7]>
+	<style type="text/css">
+		#wrap {display:table;height:100%}
+	</style>
+<![endif]-->
+
+*/
